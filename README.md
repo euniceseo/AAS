@@ -1,3 +1,3 @@
 # AAS
 
-Code for the 'Role of Age in Alternate Translation' project
+To house various codebits for AAS/AAS related projects
